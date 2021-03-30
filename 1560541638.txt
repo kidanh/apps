@@ -1,7 +1,7 @@
 [
  {
    "id": 1,
-   "name": "Priave Browser with Converter",
+   "name": "MyMedia: FileManager & Convert",
    "category": "Photo & Video",
    "size": 10,
  }
