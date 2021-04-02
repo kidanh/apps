@@ -3,6 +3,6 @@
    "id": 0,
    "name": "Private Browser with Converter",
    "category": "Photo & Video",
-   "size": 10,
+   "size": 14,
  }
 ]
