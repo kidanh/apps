@@ -1,0 +1,8 @@
+[
+ {
+   "id": 0,
+   "name": "Bolt Browser and Converter",
+   "category": "Productivity",
+   "size": 15,
+ }
+]
