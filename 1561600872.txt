@@ -1,0 +1,8 @@
+[
+ {
+   "id": 0,
+   "name": "Camera HDR for OBS Studio",
+   "category": "Photo & Video",
+   "size": 8,
+ }
+]
