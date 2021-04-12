@@ -1,0 +1,8 @@
+[
+ {
+   "id": 0,
+   "name": "OBS Studio Camera",
+   "category": "Photo & Video",
+   "size": 13,
+ }
+]
