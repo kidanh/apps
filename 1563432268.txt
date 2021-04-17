@@ -1,0 +1,8 @@
+[
+ {
+   "id": 0,
+   "name": "Browser with Adlock",
+   "category": "Productivity",
+   "size": 15,
+ }
+]
